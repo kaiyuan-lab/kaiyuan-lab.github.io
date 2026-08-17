@@ -1,0 +1,79 @@
+{{ define "main" }}
+
+<main class="people-page">
+
+  <section class="people-hero">
+    <div class="people-kicker">PEOPLE</div>
+    <h1>Meet the Yuan Group</h1>
+    <p>We are a multidisciplinary team studying how genome organization shapes cellular possibility in development and disease.</p>
+
+    <figure class="people-current-photo">
+      <img src="/images/people/group-2026.jpg" alt="Yuan Group 2026">
+    </figure>
+  </section>
+
+  <section class="people-section pi-section">
+    <div class="people-section-kicker">01</div>
+    <h2>Principal Investigator</h2>
+
+    <div class="pi-profile">
+      <div class="pi-identity">
+        <h3>Kai Yuan, PhD</h3>
+        <p class="pi-role">Professor · Principal Investigator</p>
+        <p class="pi-institution">Xiangya Hospital, Central South University</p>
+        <div class="pi-links">
+          <a href="mailto:yuankai@csu.edu.cn">Email</a>
+          <a href="https://scholar.google.com/citations?user=96H04oQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+          <a href="https://orcid.org/0000-0001-7002-5703" target="_blank" rel="noopener noreferrer">ORCID</a>
+        </div>
+      </div>
+      <p class="pi-bio">Kai Yuan trained in chromosome biology with Xuebiao Yao at the University of Science and Technology of China and in developmental biology with Patrick O’Farrell at the University of California, San Francisco. He established the Yuan Group in 2017. His research seeks to understand how hierarchical genome organization shapes cellular possibility during development and disease.</p>
+    </div>
+  </section>
+
+  <section class="people-section">
+    <div class="people-section-kicker">02</div>
+    <h2>Current Members</h2>
+
+    <div class="member-grid">
+      {{ range site.Data.people.current }}
+        <article class="member-item">
+          <h3>{{ .name }}</h3>
+          <div class="member-position">{{ .position }}</div>
+          <p>{{ .focus }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="people-section alumni-section">
+    <div class="people-section-kicker">03</div>
+    <h2>Alumni</h2>
+    <p class="section-note">Where they are now</p>
+
+    <div class="alumni-grid">
+      {{ range site.Data.people.alumni }}
+        <article class="alumni-item">
+          <p><strong class="alumni-name">{{ .name }}</strong><span class="alumni-former"> · {{ .former }}</span><span class="alumni-dash"> — </span><span class="alumni-current">{{ .current }}</span> · {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .institution }}</a>{{ else }}{{ .institution }}{{ end }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="people-section group-history">
+    <div class="people-section-kicker">04</div>
+    <h2>Our Group Through the Years</h2>
+
+    <div class="group-years">
+      {{ range site.Data.people.years }}
+        <figure class="group-year">
+          <figcaption>{{ .year }}</figcaption>
+          <img src="{{ .image }}" alt="Yuan Group {{ .year }}">
+        </figure>
+      {{ end }}
+    </div>
+  </section>
+
+</main>
+
+{{ end }}

@@ -1,0 +1,89 @@
+{{ define "main" }}
+
+<main class="publications-page">
+
+  <section class="publications-hero">
+    <div class="publications-kicker">PUBLICATIONS</div>
+    <h1>Publications &amp; Resources</h1>
+    <p>A chronological record of our research and shared scientific resources.</p>
+
+    <div class="publication-legend">
+      {{ range site.Data.publications.legend }}
+        <span><strong>{{ .symbol }}</strong> {{ .text }}</span>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="publication-section">
+    <div class="publication-section-kicker">01</div>
+    <h2>First- &amp; Corresponding-Author Publications</h2>
+
+    {{ $lastYear := 0 }}
+    {{ range site.Data.publications.led }}
+      {{ if ne .year $lastYear }}
+        <h3 class="publication-year">{{ .year }}</h3>
+        {{ $lastYear = .year }}
+      {{ end }}
+
+      <article class="publication-entry">
+        <div class="publication-title">{{ .title }}</div>
+        <div class="publication-authors">{{ .authors_html | safeHTML }}</div>
+        <div class="publication-meta"><em>{{ .citation }}</em></div>
+      </article>
+    {{ end }}
+  </section>
+
+  <section class="publication-section">
+    <div class="publication-section-kicker">02</div>
+    <h2>Co-Authored Publications</h2>
+
+    {{ $lastYear := 0 }}
+    {{ range site.Data.publications.coauthored }}
+      {{ if ne .year $lastYear }}
+        <h3 class="publication-year">{{ .year }}</h3>
+        {{ $lastYear = .year }}
+      {{ end }}
+
+      <article class="publication-entry publication-entry-compact">
+        <div class="publication-title">{{ .title }}</div>
+        <div class="publication-authors">{{ .authors_html | safeHTML }}</div>
+        <div class="publication-meta"><em>{{ .citation }}</em></div>
+      </article>
+    {{ end }}
+  </section>
+
+  <section class="publication-section resources-section">
+    <div class="publication-section-kicker">03</div>
+    <h2>Resources</h2>
+
+    <div class="resource-group">
+      <h3>Databases</h3>
+      <div class="database-grid">
+        {{ range site.Data.publications.databases }}
+          <a class="database-item" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+            <strong>{{ .name }}</strong>
+            <span>Explore resource →</span>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="resource-group">
+      <h3>Protocols</h3>
+      {{ range site.Data.publications.protocols }}
+        <article class="protocol-entry">
+          <div>
+            <div class="publication-title">{{ .title }}</div>
+            <div class="publication-meta"><em>{{ .journal }}</em> · {{ .year }} · {{ .citation }}</div>
+          </div>
+          {{ if .url }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">View protocol →</a>
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+</main>
+
+{{ end }}

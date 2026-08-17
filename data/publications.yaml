@@ -1,0 +1,348 @@
+legend:
+- symbol: †
+  text: Equal contribution
+- symbol: '*'
+  text: Corresponding author
+- symbol: '#'
+  text: Co-corresponding author
+led:
+- year: 2025
+  authors: Zhang, N., Y. Meng, S. Mao, H. Ni, C. Huang, L. Shen, K. Fu, L. Lv, C. Yu, P. Meekrathok, C. Kuang, F. Chen, Y.
+    Zhang and K. Yuan*
+  title: FBXO31-mediated ubiquitination of OGT maintains O-GlcNAcylation homeostasis to restrain endometrial malignancy
+  citation: 'Nat Commun 16(1): 1274.'
+  authors_html: Zhang, N., Y. Meng, S. Mao, H. Ni, C. Huang, L. Shen, K. Fu, L. Lv, C. Yu, P. Meekrathok, C. Kuang, F. Chen,
+    Y. Zhang and <strong>K. Yuan*</strong>
+- year: 2025
+  authors: Shen, Y.†, Y. Liu†, M. Guo†, S. Mao, R. Chen, M. Wang, Z. Li, Y. Li, W. Chen, F. Chen, B. Wu, C. Wang, W. Chen,
+    H. Cui, K. Yuan# and H. Huang#
+  title: DEK-nucleosome structure shows DEK modulates H3K27me3 and stem cell fate
+  citation: 'Nat Struct & Mol Biol 32(7): 1193-1204.'
+  authors_html: Shen, Y.†, Y. Liu†, M. Guo†, S. Mao, R. Chen, M. Wang, Z. Li, Y. Li, W. Chen, F. Chen, B. Wu, C. Wang, W.
+    Chen, H. Cui, <strong>K. Yuan#</strong> and H. Huang#
+- year: 2025
+  authors: Shen, Y.†, L. Li†, H. Ni†, H. Li, M. Xu, X. Tan, Z. Li, P. Li, F. Chen, S. Mao, G. Sun and K. Yuan*
+  title: Ints7 deficiency activates DNA damage response to elicit resurgence of endogenous retrovirus MERVL and anastasis
+    of embryonic stem cells
+  citation: Nucleic Acids Res 53(15).
+  authors_html: Shen, Y.†, L. Li†, H. Ni†, H. Li, M. Xu, X. Tan, Z. Li, P. Li, F. Chen, S. Mao, G. Sun and <strong>K. Yuan*</strong>
+- year: 2025
+  authors: Ran, Z.†, M. Mu†, S. Lin†, T. Wang, J. Zeng, L. Kuang, K. Chen, S. Suo#, K. Yuan# and H. Xu#
+  title: Deciphering the MHC immunopeptidome of human cancers with Ligand.MHC atlas
+  citation: Brief Bioinform 26(4).
+  authors_html: Ran, Z.†, M. Mu†, S. Lin†, T. Wang, J. Zeng, L. Kuang, K. Chen, S. Suo#, <strong>K. Yuan#</strong> and H.
+    Xu#
+- year: 2025
+  authors: Ni, H.†, C. Huang†, Z. Ran, S. Li, C. Kuang, Y. Zhang# and K. Yuan#
+  title: Targeting HPV for the prevention, diagnosis, and treatment of cervical cancer
+  citation: J Mol Cell Biol 16(10).
+  authors_html: Ni, H.†, C. Huang†, Z. Ran, S. Li, C. Kuang, Y. Zhang# and <strong>K. Yuan#</strong>
+- year: 2025
+  authors: Lei, X.†, S. Mao†, Y. Li, S. Huang, J. Li, W. Du, C. Kuang and K. Yuan*
+  title: 'ERVcancer: a web resource designed for querying activation of human endogenous retroviruses across major cancer
+    types'
+  citation: 'J Genet Genomics 52(4): 583-591.'
+  authors_html: Lei, X.†, S. Mao†, Y. Li, S. Huang, J. Li, W. Du, C. Kuang and <strong>K. Yuan*</strong>
+- year: 2025
+  authors: Lei, Q.†, H. Yu†, F. Chen# and K. Yuan#
+  title: Tissue-Specific Profiling of O-GlcNAcylated Proteins in Drosophila Using TurboID-CpOGA(M)
+  citation: 'Bio Protoc 15(5): e5234.'
+  authors_html: Lei, Q.†, H. Yu†, F. Chen# and <strong>K. Yuan#</strong>
+- year: 2024
+  authors: Zhang, J., S. Li, C. Kuang, Y. Shen, H. Yu, F. Chen, R. Tang, S. Mao, L. Lv, M. Qi#, J. Zhang# and K. Yuan#
+  title: CD74(+) fibroblasts proliferate upon mechanical stretching to promote angiogenesis in keloids
+  citation: 'FASEB J 38(20): e70103.'
+  authors_html: Zhang, J., S. Li, C. Kuang, Y. Shen, H. Yu, F. Chen, R. Tang, S. Mao, L. Lv, M. Qi#, J. Zhang# and <strong>K.
+    Yuan#</strong>
+- year: 2024
+  authors: Yu, H., D. Liu, Y. Zhang, R. Tang, X. Fan, S. Mao, L. Lv, F. Chen, H. Qin, Z. Zhang, D. M. F. van Aalten, B. Yang
+    and K. Yuan*
+  title: Tissue-specific O-GlcNAcylation profiling identifies substrates in translational machinery in Drosophila mushroom
+    body contributing to olfactory learning
+  citation: Elife 13.
+  authors_html: Yu, H., D. Liu, Y. Zhang, R. Tang, X. Fan, S. Mao, L. Lv, F. Chen, H. Qin, Z. Zhang, D. M. F. van Aalten,
+    B. Yang and <strong>K. Yuan*</strong>
+- year: 2024
+  authors: Yang, F., M. Ding, X. Song, F. Chen, T. Yang, C. Wang, C. Hu, Q. Hu, Y. Yao, S. Du, P. Y. Yao, P. Xia, G. Adams,
+    Jr., C. Fu, S. Xiang, D. Liu, Z. Wang#, K. Yuan# and X. Liu#
+  title: Organization of microtubule plus-end dynamics by phase separation in mitosis
+  citation: J Mol Cell Biol 16(2).
+  authors_html: Yang, F., M. Ding, X. Song, F. Chen, T. Yang, C. Wang, C. Hu, Q. Hu, Y. Yao, S. Du, P. Y. Yao, P. Xia, G.
+    Adams, Jr., C. Fu, S. Xiang, D. Liu, Z. Wang#, <strong>K. Yuan#</strong> and X. Liu#
+- year: 2024
+  authors: Tang, R., M. Zhou, Y. Chen, Z. Jiang, X. Fan, J. Zhang, A. Dong, L. Lv, S. Mao, F. Chen, G. Gao, J. Min, K. Liu#
+    and K. Yuan#
+  title: H3K14ac facilitates the reinstallation of constitutive heterochromatin in Drosophila early embryos by engaging Eggless/SetDB1
+  citation: 'Proc Nat Acad Sci 121(33): e2321859121.'
+  authors_html: Tang, R., M. Zhou, Y. Chen, Z. Jiang, X. Fan, J. Zhang, A. Dong, L. Lv, S. Mao, F. Chen, G. Gao, J. Min, K.
+    Liu# and <strong>K. Yuan#</strong>
+- year: 2024
+  authors: Liu, H., H. Fu, C. Yu, N. Zhang#, C. Huang, L. Lv, C. Hu, F. Chen, Z. Xiao, Z. Zhang, H. Lu and K. Yuan#
+  title: Transcriptional pausing induced by ionizing radiation enables the acquisition of radioresistance in nasopharyngeal
+    carcinoma
+  citation: J Mol Cell Biol 15(7).
+  authors_html: Liu, H., H. Fu, C. Yu, N. Zhang#, C. Huang, L. Lv, C. Hu, F. Chen, Z. Xiao, Z. Zhang, H. Lu and <strong>K.
+    Yuan#</strong>
+- year: 2023
+  authors: Zhang, Y., H. Yu, D. Wang, X. Lei, Y. Meng, N. Zhang, F. Chen, L. Lv, Q. Pan, H. Qin, Z. Zhang, D. M. F. van Aalten#
+    and K. Yuan#
+  title: Protein O-GlcNAcylation homeostasis regulates facultative heterochromatin to fine-tune sog-Dpp signaling during Drosophila
+    early embryogenesis
+  citation: 'J Genet Genomics 50(12): 948-959.'
+  authors_html: Zhang, Y., H. Yu, D. Wang, X. Lei, Y. Meng, N. Zhang, F. Chen, L. Lv, Q. Pan, H. Qin, Z. Zhang, D. M. F. van
+    Aalten# and <strong>K. Yuan#</strong>
+- year: 2023
+  authors: Yang, J., R. Tang, S. Chen, Y. Chen, K. Yuan#, R. Huang# and L. Wang#
+  title: Exposure to high-sugar diet induces transgenerational changes in sweet sensitivity and feeding behavior via H3K27me3
+    reprogramming
+  citation: Elife 12.
+  authors_html: Yang, J., R. Tang, S. Chen, Y. Chen, <strong>K. Yuan#</strong>, R. Huang# and L. Wang#
+- year: 2022
+  authors: Yu, C.†, X. Lei†, F. Chen, S. Mao, L. Lv, H. Liu, X. Hu, R. Wang, L. Shen, N. Zhang, Y. Meng, Y. Shen, J. Chen,
+    P. Li, S. Huang, C. Lin, Z. Zhang and K. Yuan*
+  title: ARID1A loss derepresses a group of human endogenous retrovirus-H loci to modulate BRD4-dependent transcription
+  citation: 'Nat Commun 13(1): 3501.'
+  authors_html: Yu, C.†, X. Lei†, F. Chen, S. Mao, L. Lv, H. Liu, X. Hu, R. Wang, L. Shen, N. Zhang, Y. Meng, Y. Shen, J.
+    Chen, P. Li, S. Huang, C. Lin, Z. Zhang and <strong>K. Yuan*</strong>
+- year: 2022
+  authors: Li, L.†, Y. Li†, L. Lv and K. Yuan*
+  title: Rewiring the transcriptional circuitries in cancer by endogenous retroviruses
+  citation: J Mol Cell Biol 14(8).
+  authors_html: Li, L.†, Y. Li†, L. Lv and <strong>K. Yuan*</strong>
+- year: 2022
+  authors: Li, L.†, P. Li†, J. Chen†, L. Li, Y. Shen, Y. Zhu, J. Liu, L. Lv, S. Mao, F. Chen, G. Hu and K. Yuan*
+  title: Rif1 interacts with non-canonical polycomb repressive complex PRC1.6 to regulate mouse embryonic stem cells fate
+    potential
+  citation: 'Cell Regen 11(1): 25.'
+  authors_html: Li, L.†, P. Li†, J. Chen†, L. Li, Y. Shen, Y. Zhu, J. Liu, L. Lv, S. Mao, F. Chen, G. Hu and <strong>K. Yuan*</strong>
+- year: 2021
+  authors: Yu, H.†, Y. Li†, L. Li†, J. Huang, X. Wang, R. Tang, Z. Jiang, L. Lv, F. Chen, C. Yu and K. Yuan*
+  title: Functional reciprocity of proteins involved in mitosis and endocytosis
+  citation: 'FEBS J 288(20): 5850-5866.'
+  authors_html: Yu, H.†, Y. Li†, L. Li†, J. Huang, X. Wang, R. Tang, Z. Jiang, L. Lv, F. Chen, C. Yu and <strong>K. Yuan*</strong>
+- year: 2020
+  authors: Tang, R.†, Z. Jiang†, F. Chen†, W. Yu, K. Fan, J. Tan, Z. Zhang, X. Liu, P. Li and K. Yuan*
+  title: The Kinase Activity of Drosophila BubR1 Is Required for Insulin Signaling-Dependent Stem Cell Maintenance
+  citation: 'Cell Rep 31(12): 107794.'
+  authors_html: Tang, R.†, Z. Jiang†, F. Chen†, W. Yu, K. Fan, J. Tan, Z. Zhang, X. Liu, P. Li and <strong>K. Yuan*</strong>
+- year: 2020
+  authors: Strong, I. J. T.†, X. Lei†, F. Chen, K. Yuan* and P. H. O'Farrell
+  title: Interphase-arrested Drosophila embryos activate zygotic gene expression and initiate mid-blastula transition events
+    at a low nuclear-cytoplasmic ratio
+  citation: 'PLoS Biol 18(10): e3000891.'
+  authors_html: Strong, I. J. T.†, X. Lei†, F. Chen, <strong>K. Yuan*</strong> and P. H. O&#x27;Farrell
+- year: 2016
+  authors: Yuan, K., C. A. Seller, A. W. Shermoen and P. H. O'Farrell
+  title: 'Timing the Drosophila Mid-Blastula Transition: A Cell Cycle-Centered View'
+  citation: 'Trends Genet 32(8): 496-507.'
+  authors_html: Yuan, K., C. A. Seller, A. W. Shermoen and P. H. O&#x27;Farrell
+- year: 2016
+  authors: Yuan, K#. and P. H. O'Farrell#
+  title: TALE-light imaging reveals maternally guided, H3K9me2/3-independent emergence of functional heterochromatin in Drosophila
+    embryos
+  citation: 'Genes Dev 30(5): 579-593.'
+  authors_html: Yuan, K#. and P. H. O&#x27;Farrell#
+- year: 2015
+  authors: Yuan, K. and P. H. O'Farrell
+  title: Cyclin B3 is a mitotic cyclin that promotes the metaphase-anaphase transition
+  citation: 'Curr Biol 25(6): 811-816.'
+  authors_html: Yuan, K. and P. H. O&#x27;Farrell
+- year: 2015
+  authors: Shao, H., Y. Huang, L. Zhang, K. Yuan#, Y. Chu, Z. Dou, C. Jin, M. Garcia-Barrio, X. Liu# and X. Yao#
+  title: Spatiotemporal dynamics of Aurora B-PLK1-MCAK signaling axis orchestrates kinetochore bi-orientation and faithful
+    chromosome segregation
+  citation: 'Sci Rep 5: 12204.'
+  authors_html: Shao, H., Y. Huang, L. Zhang, <strong>K. Yuan#</strong>, Y. Chu, Z. Dou, C. Jin, M. Garcia-Barrio, X. Liu#
+    and X. Yao#
+- year: 2014
+  authors: Yuan, K., A. W. Shermoen and P. H. O'Farrell
+  title: Illuminating DNA replication during Drosophila development using TALE-lights
+  citation: 'Curr Biol 24(4): R144-145.'
+  authors_html: Yuan, K., A. W. Shermoen and P. H. O&#x27;Farrell
+- year: 2012
+  authors: Yuan, K., J. A. Farrell and P. H. O'Farrell
+  title: Different cyclin types collaborate to reverse the S-phase checkpoint and permit prompt mitosis
+  citation: 'J Cell Biol 198(6): 973-980.'
+  authors_html: Yuan, K., J. A. Farrell and P. H. O&#x27;Farrell
+- year: 2011
+  authors: Yuan, K., Y. Huang and X. Yao
+  title: 'Illumination of mitotic orchestra during cell division: a Polo view'
+  citation: 'Cell Signal 23(1): 1-5.'
+  authors_html: Yuan, K., Y. Huang and X. Yao
+- year: 2009
+  authors: Yuan, K., N. Li, K. Jiang, T. Zhu, Y. Huo, C. Wang, J. Lu, A. Shaw, K. Thomas, J. Zhang, D. Mann, J. Liao, C. Jin#
+    and X. Yao#
+  title: PinX1 is a novel microtubule-binding protein essential for accurate chromosome segregation
+  citation: 'J Biol Chem 284(34): 23072-23082.'
+  authors_html: Yuan, K., N. Li, K. Jiang, T. Zhu, Y. Huo, C. Wang, J. Lu, A. Shaw, K. Thomas, J. Zhang, D. Mann, J. Liao,
+    C. Jin# and X. Yao#
+- year: 2009
+  authors: Yuan, K.†, N. Li†, Y. Huo, F. Yan, Y. Yang, T. Ward, C. J. Jin and X. Yao
+  title: Recruitment of separase to mitotic chromosomes is regulated by Aurora B
+  citation: 'Cell Cycle 8(9): 1433-1443.'
+  authors_html: Yuan, K.†, N. Li†, Y. Huo, F. Yan, Y. Yang, T. Ward, C. J. Jin and X. Yao
+- year: 2007
+  authors: Yuan, K.†, H. Hu†, Z. Guo, G. Fu, A. P. Shaw, R. Hu# and X. Yao#
+  title: Phospho-regulation of HsCdc14A By Polo-like kinase 1 is essential for mitotic progression
+  citation: 'J Biol Chem 282(37): 27414-27423.'
+  authors_html: Yuan, K.†, H. Hu†, Z. Guo, G. Fu, A. P. Shaw, R. Hu# and X. Yao#
+coauthored:
+- year: 2026
+  authors: Wan, J., H. Pan, D. Chang, Y. Zhao, Q. Xu, L. Yao, Q. Sun, X. Zhang, R. He, C. Wang, H. Zhang, L. Lei, Y. Wang,
+    M. Li, H. Wu, J. Ma, Y. Wu, Y. Xu, N. Xiong, T. Wang, X. Wang, L. Chen, Y. Xu, H. Cao, K. Zhang, W. Liu, Y. Zhang, C.
+    Mao, Q. Wang, Z. Xue, Z. Zhang, O. Cheng, W. Huang, G. Zhao, G. Cui, T. Chen, P. Wang, W. Di, H. Liu, H. Zheng, C. Chen,
+    H. Guo, K. Xia, Z. Zhang, K. Yuan, J. Li, J. Wang, J. Guo, L. Shen, H. Jiang, C. Liu, J. Liu, P. Chan, Z. Liu, B. Tang,
+    D. Parkinson's, D. Movement Disorders Multicenter, C. Collaborative Network in and A. China Essential Tremor
+  title: 'The genetic spectrum of LRRK2 variants in Parkinson''s disease: findings from a large Chinese cohort'
+  citation: NPJ Parkinsons Dis 12(1).
+  authors_html: Wan, J., H. Pan, D. Chang, Y. Zhao, Q. Xu, L. Yao, Q. Sun, X. Zhang, R. He, C. Wang, H. Zhang, L. Lei, Y.
+    Wang, M. Li, H. Wu, J. Ma, Y. Wu, Y. Xu, N. Xiong, T. Wang, X. Wang, L. Chen, Y. Xu, H. Cao, K. Zhang, W. Liu, Y. Zhang,
+    C. Mao, Q. Wang, Z. Xue, Z. Zhang, O. Cheng, W. Huang, G. Zhao, G. Cui, T. Chen, P. Wang, W. Di, H. Liu, H. Zheng, C.
+    Chen, H. Guo, K. Xia, Z. Zhang, <strong>K. Yuan</strong>, J. Li, J. Wang, J. Guo, L. Shen, H. Jiang, C. Liu, J. Liu, P.
+    Chan, Z. Liu, B. Tang, D. Parkinson&#x27;s, D. Movement Disorders Multicenter, C. Collaborative Network in and A. China
+    Essential Tremor
+- year: 2026
+  authors: Ge, S., K. Yuan and M. Lei
+  title: 'The SPX protein family in plants: from phosphate sensors to multifunctional signaling hubs'
+  citation: Stress Biol 6(1).
+  authors_html: Ge, S., <strong>K. Yuan</strong> and M. Lei
+- year: 2026
+  authors: Deng, Z., H. Han, C. Wang, W. Zhong, Z. Wan, D. Zhou, Y. Chen, Y. Peng, Z. Zhai, K. Yuan, R. Wang and Z. Zhang
+  title: BNIP3-Dependent Mitophagy Non-Autonomously Regulates Systemic Aging via NF-kappaB Suppression in Drosophila
+  citation: 'Aging Cell 25(5): e70539.'
+  authors_html: Deng, Z., H. Han, C. Wang, W. Zhong, Z. Wan, D. Zhou, Y. Chen, Y. Peng, Z. Zhai, <strong>K. Yuan</strong>,
+    R. Wang and Z. Zhang
+- year: 2025
+  authors: Zhang, Y., L. Wu, K. Yuan and Y. Yu
+  title: Photoreceptor-dependent signaling in plant responses to thermomorphogenesis and heat stress
+  citation: 'Plant Physiol Biochem 228: 110202.'
+  authors_html: Zhang, Y., L. Wu, <strong>K. Yuan</strong> and Y. Yu
+- year: 2025
+  authors: Tang, G., J. Liu, X. Gao, K. Yuan, M. Chen, L. Wang, L. Qi and Y. Cai
+  title: Luminal Stem-like Cells in High-Risk/Locally Advanced Prostate Cancer Promote Resistance to Hormonal Therapy
+  citation: 'Theranostics 15(18): 9558-9579.'
+  authors_html: Tang, G., J. Liu, X. Gao, <strong>K. Yuan</strong>, M. Chen, L. Wang, L. Qi and Y. Cai
+- year: 2025
+  authors: Tan, R., M. Wen, W. Yang, D. Zhan, N. Zheng, M. Liu, F. Zhu, X. Chen, M. Wang, S. Yang, B. Xie, Q. He, K. Yuan,
+    L. Sun, Y. Wang, J. Qin and Y. Zhang
+  title: Integrated proteomics and scRNA-seq analyses of ovarian cancer reveal molecular subtype-associated cell landscapes
+    and immunotherapy targets
+  citation: 'Br J Cancer 132(1): 111-125.'
+  authors_html: Tan, R., M. Wen, W. Yang, D. Zhan, N. Zheng, M. Liu, F. Zhu, X. Chen, M. Wang, S. Yang, B. Xie, Q. He, <strong>K.
+    Yuan</strong>, L. Sun, Y. Wang, J. Qin and Y. Zhang
+- year: 2025
+  authors: Chen, X., Y. He, M. Guo, S. Liu, Y. Li, F. Zeng, C. Wang, K. Yuan and H. Huang
+  title: Mechanistic insights into Cas13d enzymes from cryo-EM structures of CasRx and DjCas13d
+  citation: Nucleic Acids Res 53(18).
+  authors_html: Chen, X., Y. He, M. Guo, S. Liu, Y. Li, F. Zeng, C. Wang, <strong>K. Yuan</strong> and H. Huang
+- year: 2024
+  authors: Kang, X., L. Ma, J. Wen, W. Gong, X. Liu, Y. Hu, Z. Feng, Q. Jing, Y. Cai, S. Li, X. Cai, K. Yuan and Y. Feng
+  title: Modeling of auditory neuropathy spectrum disorders associated with the TEME43 variant reveals impaired gap junction
+    function of iPSC-derived glia-like support cells
+  citation: 'Front Mol Neurosci 17: 1457874.'
+  authors_html: Kang, X., L. Ma, J. Wen, W. Gong, X. Liu, Y. Hu, Z. Feng, Q. Jing, Y. Cai, S. Li, X. Cai, <strong>K. Yuan</strong>
+    and Y. Feng
+- year: 2024
+  authors: He, Q., Y. Zhang, W. Li, S. Chen, J. Xiong, R. Zhao, K. Yuan, Q. Hu, S. Liu, G. Gao, M. T. Bedford, D. G. Tang,
+    B. Xu, C. Zou and D. Zhang
+  title: Inhibition of PRMT5 moderately suppresses prostate cancer growth in vivo but enhances its response to immunotherapy
+  citation: 'Cancer Letters 602: 217214.'
+  authors_html: He, Q., Y. Zhang, W. Li, S. Chen, J. Xiong, R. Zhao, <strong>K. Yuan</strong>, Q. Hu, S. Liu, G. Gao, M. T.
+    Bedford, D. G. Tang, B. Xu, C. Zou and D. Zhang
+- year: 2023
+  authors: Song, X., F. Yang, T. Yang, Y. Wang, M. Ding, L. Li, P. Xu, S. Liu, M. Dai, C. Chi, S. Xiang, C. Xu, D. Li, Z.
+    Wang, L. Li, D. L. Hill, C. Fu, K. Yuan, P. Li, J. Zang, Z. Hou, K. Jiang, Y. Shi, X. Liu and X. Yao
+  title: Phase separation of EB1 guides microtubule plus-end dynamics
+  citation: 'Nat Cell Biol 25(1): 79-91.'
+  authors_html: Song, X., F. Yang, T. Yang, Y. Wang, M. Ding, L. Li, P. Xu, S. Liu, M. Dai, C. Chi, S. Xiang, C. Xu, D. Li,
+    Z. Wang, L. Li, D. L. Hill, C. Fu, <strong>K. Yuan</strong>, P. Li, J. Zang, Z. Hou, K. Jiang, Y. Shi, X. Liu and X. Yao
+- year: 2023
+  authors: Pan, H., Z. Liu, J. Ma, Y. Li, Y. Zhao, X. Zhou, Y. Xiang, Y. Wang, X. Zhou, R. He, Y. Xie, Q. Zhou, K. Yuan, Q.
+    Xu, Q. Sun, J. Wang, X. Yan, H. Zhang, C. Wang, L. Lei, W. Liu, X. Wang, X. Ding, T. Wang, Z. Xue, Z. Zhang, L. Chen,
+    Q. Wang, Y. Liu, J. Tang, X. Zhang, S. Peng, C. Wang, J. Ding, C. Liu, L. Wang, H. Chen, L. Shen, H. Jiang, X. Wu, H.
+    Tan, D. Luo, S. Xiao, X. Chen, J. Tan, Z. Hu, C. Chen, K. Xia, Z. Zhang, J. N. Foo, C. Blauwendraat, M. A. Nalls, A. B.
+    Singleton, J. Liu, P. Chan, H. Zheng, J. Li, J. Guo, J. Yang, B. Tang, D. Parkinson's, D. Movement Disorders Multicenter
+    and C. Collaborative Network in
+  title: Genome-wide association study using whole-genome sequencing identifies risk loci for Parkinson's disease in Chinese
+    population
+  citation: 'NPJ Parkinsons Dis 9(1): 22.'
+  authors_html: Pan, H., Z. Liu, J. Ma, Y. Li, Y. Zhao, X. Zhou, Y. Xiang, Y. Wang, X. Zhou, R. He, Y. Xie, Q. Zhou, <strong>K.
+    Yuan</strong>, Q. Xu, Q. Sun, J. Wang, X. Yan, H. Zhang, C. Wang, L. Lei, W. Liu, X. Wang, X. Ding, T. Wang, Z. Xue, Z.
+    Zhang, L. Chen, Q. Wang, Y. Liu, J. Tang, X. Zhang, S. Peng, C. Wang, J. Ding, C. Liu, L. Wang, H. Chen, L. Shen, H. Jiang,
+    X. Wu, H. Tan, D. Luo, S. Xiao, X. Chen, J. Tan, Z. Hu, C. Chen, K. Xia, Z. Zhang, J. N. Foo, C. Blauwendraat, M. A. Nalls,
+    A. B. Singleton, J. Liu, P. Chan, H. Zheng, J. Li, J. Guo, J. Yang, B. Tang, D. Parkinson&#x27;s, D. Movement Disorders
+    Multicenter and C. Collaborative Network in
+- year: 2022
+  authors: Zhou, X., Z. Liu, X. Zhou, Y. Xiang, Z. Zhou, Y. Zhao, H. Pan, Q. Xu, Y. Chen, Q. Sun, X. Wu, H. Tan, B. Li, K.
+    Yuan, Y. Xie, W. Liao, S. Hu, J. Zhu, X. Wu, J. Li, C. Wang, L. Lei, J. Tang, Y. Liu, H. Wu, W. Huang, T. Wang, Z. Xue,
+    P. Wang, Z. Zhang, P. Xu, L. Chen, Q. Wang, X. Wang, O. Cheng, Y. Shen, W. Liu, M. Ye, Y. You, J. Li, X. Yan, J. Guo,
+    B. Tang, D. for Parkinson's, D. Movement Disorders Multicenter and C. Collaborative Network in
+  title: 'The Chinese Parkinson''s Disease Registry (CPDR): Study Design and Baseline Patient Characteristics'
+  citation: 'Mov Disord 37(7): 1335-1345.'
+  authors_html: Zhou, X., Z. Liu, X. Zhou, Y. Xiang, Z. Zhou, Y. Zhao, H. Pan, Q. Xu, Y. Chen, Q. Sun, X. Wu, H. Tan, B. Li,
+    <strong>K. Yuan</strong>, Y. Xie, W. Liao, S. Hu, J. Zhu, X. Wu, J. Li, C. Wang, L. Lei, J. Tang, Y. Liu, H. Wu, W. Huang,
+    T. Wang, Z. Xue, P. Wang, Z. Zhang, P. Xu, L. Chen, Q. Wang, X. Wang, O. Cheng, Y. Shen, W. Liu, M. Ye, Y. You, J. Li,
+    X. Yan, J. Guo, B. Tang, D. for Parkinson&#x27;s, D. Movement Disorders Multicenter and C. Collaborative Network in
+- year: 2022
+  authors: Tang, R., J. Liu, S. Li, J. Zhang, C. Yu, H. Liu, F. Chen, L. Lv, Q. Zhang, K. Yuan and H. Shao
+  title: A patent and literature review of CDK12 inhibitors
+  citation: 'Expert Opin Ther Pat 32(10): 1055-1065.'
+  authors_html: Tang, R., J. Liu, S. Li, J. Zhang, C. Yu, H. Liu, F. Chen, L. Lv, Q. Zhang, <strong>K. Yuan</strong> and H.
+    Shao
+- year: 2022
+  authors: Liao, X., K. Yuan and D. Crich
+  title: Intramolecular displacement reactions involving sulfur leading to the formation of 3,6-thiaanhydro sugar derivatives
+    during the synthesis of 3,5-dithio-glucofuranose
+  citation: Eur J Org Chem 2022(9).
+  authors_html: Liao, X., <strong>K. Yuan</strong> and D. Crich
+- year: 2022
+  authors: Huang, S., J. Song, C. He, X. Cai, K. Yuan, L. Mei and Y. Feng
+  title: Genetic insights, disease mechanisms, and biological therapeutics for Waardenburg syndrome
+  citation: 'Gene Ther 29(9): 479-497.'
+  authors_html: Huang, S., J. Song, C. He, X. Cai, <strong>K. Yuan</strong>, L. Mei and Y. Feng
+- year: 2019
+  authors: Liu, Y., B. Feng, X. Cao, G. Tang, H. Liu, F. Chen, M. Liu, Q. Chen, K. Yuan, Y. Gu, X. Feng and W. Zeng
+  title: A novel "AIE + ESIPT" near-infrared nanoprobe for the imaging of gamma-glutamyl transpeptidase in living cells and
+    the application in precision medicine
+  citation: 'Analyst 144(17): 5136-5142.'
+  authors_html: Liu, Y., B. Feng, X. Cao, G. Tang, H. Liu, F. Chen, M. Liu, Q. Chen, <strong>K. Yuan</strong>, Y. Gu, X. Feng
+    and W. Zeng
+- year: 2019
+  authors: Gao, T., X. Huang, S. Huang, J. Dong, K. Yuan, X. Feng, T. Liu, K. Yu and W. Zeng
+  title: Sensitive Water-Soluble Fluorescent Probe Based on Umpolung and Aggregation-Induced Emission Strategies for Selective
+    Detection of Hg(2+) in Living Cells and Zebrafish
+  citation: 'J Agric Food Chem 67(8): 2377-2383.'
+  authors_html: Gao, T., X. Huang, S. Huang, J. Dong, <strong>K. Yuan</strong>, X. Feng, T. Liu, K. Yu and W. Zeng
+- year: 2012
+  authors: Farrell, J. A., A. W. Shermoen, K. Yuan and P. H. O'Farrell
+  title: Embryonic onset of late replication requires Cdc25 down-regulation
+  citation: 'Genes Dev 26(7): 714-725.'
+  authors_html: Farrell, J. A., A. W. Shermoen, <strong>K. Yuan</strong> and P. H. O&#x27;Farrell
+- year: 2010
+  authors: Wang, C., J. Yu, K. Yuan, J. Lan, C. Jin and H. Huang
+  title: Plk1-mediated mitotic phosphorylation of PinX1 regulates its stability
+  citation: 'Eur J Cell Biol 89(10): 748-756.'
+  authors_html: Wang, C., J. Yu, <strong>K. Yuan</strong>, J. Lan, C. Jin and H. Huang
+- year: 2009
+  authors: Li, N., K. Yuan, F. Yan, Y. Huo, T. Zhu, X. Liu, Z. Guo and X. Yao
+  title: PinX1 is recruited to the mitotic chromosome periphery by Nucleolin and facilitates chromosome congression
+  citation: 'Biochem Biophys Res Commun 384(1): 76-81.'
+  authors_html: Li, N., <strong>K. Yuan</strong>, F. Yan, Y. Huo, T. Zhu, X. Liu, Z. Guo and X. Yao
+- year: 2007
+  authors: Fu, G., X. Ding, K. Yuan, F. Aikhionbare, J. Yao, X. Cai, K. Jiang and X. Yao
+  title: Phosphorylation of human Sgo1 by NEK2A is essential for chromosome congression in mitosis
+  citation: 'Cell Res 17(7): 608-618.'
+  authors_html: Fu, G., X. Ding, <strong>K. Yuan</strong>, F. Aikhionbare, J. Yao, X. Cai, K. Jiang and X. Yao
+databases:
+- name: ERVcancer
+  url: http://kyuanlab.com/ervcancer/
+- name: Ligand.MHC-Atlas
+  url: http://modinfor.com/Ligand.MHC-Atlas/
+- name: NeoOmni Atlas
+  url: http://modinfor.com/NeoOmni-Atlas/
+protocols:
+- year: 2025
+  title: Tissue-Specific Profiling of O-GlcNAcylated Proteins in Drosophila Using TurboID-CpOGA(M)
+  journal: Bio-protocol
+  citation: '15(5): e5234'
+  url: ''

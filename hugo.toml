@@ -1,0 +1,7 @@
+baseURL = "https://kaiyuan-lab.github.io/"
+languageCode = "en-us"
+title = "Yuan Lab"
+
+[params]
+  description = "Hierarchical genome organization and cell-state plasticity"
+  institution = "Xiangya Hospital, Central South University"
